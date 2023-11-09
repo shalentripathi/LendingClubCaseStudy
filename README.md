@@ -20,10 +20,10 @@
 
 ## Conclusions
 - DTI is a very strong variable which shows higher chance of default of loan payment. 
-- EDA shows that person, who have taken loan more than then annual income, has strong chances of default.
-- High DTI for non-verified loan cases are also strong indication for default.
-- Low grade borrower, who has higher DTI, has more risk of default.
-- Lower grade borrower who has frequently re-financing loan, has higher chance of default.
+- EDA shows that Sub Grade person, who have taken loan more than then annual income, has strong chances of default.
+- High DTI cases shows high Charged off cases.
+- Low-income Sub Grade borrower, who has higher DTI, has more risk of default.
+- Low-income Sub Grade borrower who has frequently re-financing loan, has higher chance of default.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 

@@ -47,5 +47,3 @@ last_credit_pull_d,object
 policy_code,int64
 application_type,object
 pub_rec_bankruptcies,float64
-last_pymnt_d_month,float64
-last_pymnt_d_year,float64
